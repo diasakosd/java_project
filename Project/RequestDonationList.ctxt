@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RequestDonationList
+comment1.params=
+comment1.target=java.util.ArrayList\ getRdEntities()
+comment10.params=
+comment10.target=java.util.ArrayList\ getMaterialRdEntities()
+comment11.params=
+comment11.target=java.util.ArrayList\ getServiceRdEntities()
+comment2.params=id
+comment2.target=RequestDonation\ get(int)
+comment3.params=o\ r
+comment3.target=void\ add(Organization,\ RequestDonation)
+comment4.params=rd
+comment4.target=void\ remove(RequestDonation)
+comment5.params=rd\ quantity
+comment5.target=void\ modify(RequestDonation,\ double)
+comment6.params=
+comment6.target=void\ monitor()
+comment7.params=
+comment7.target=void\ reset()
+comment8.params=
+comment8.target=java.util.ArrayList\ listMaterialRdEntities()
+comment9.params=
+comment9.target=java.util.ArrayList\ listServiceRdEntities()
+numComments=12
